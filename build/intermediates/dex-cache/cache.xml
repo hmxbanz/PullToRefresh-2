@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/suyanlu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ae615fc43b4003a87706cd10136a8d1e0e061d3f.jar" />
+    </item>
+    <item
+        jar="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/pre-dexed/debug/classes-7ce158b8e4851a2de71195ce40b76c27cca4a2ef.jar" />
+    </item>
+    <item
+        jar="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/pre-dexed/debug/classes-b3befe3084c836f9392cfe0f3ffca90c76501056.jar" />
+    </item>
+    <item
+        jar="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/suyanlu/AndroidStudioProjects/PullToRefresh/PullToRefresh/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1a19d7e6ea79e00c6febd0344219a11aa59a5c6d.jar" />
+    </item>
+
+</items>
